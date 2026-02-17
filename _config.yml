@@ -1,0 +1,18 @@
+# Jekyll configuration for testhelp.github.io
+# This file should be located in the root directory of the repository
+
+# Site settings
+title: Test Help Documentation
+description: Testing online help documentation
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://swatijainkomodo.github.io/testhelp.github.io" # the base hostname & protocol
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Exclude from processing
+exclude:
+  - README.md
+  - .git
+  - .gitignore
