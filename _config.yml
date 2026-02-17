@@ -9,10 +9,11 @@ url: "https://swatijainkomodo.github.io/testhelp.github.io" # the base hostname 
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: cayman
 
 # Exclude from processing
 exclude:
   - README.md
   - .git
   - .gitignore
+
