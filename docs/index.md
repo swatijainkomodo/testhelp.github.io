@@ -6,9 +6,9 @@ title: Home
 # Test Help Documentation
 
 Welcome to the Test Help Documentation site!
-Images
+
 ![GitHub Image](Githubimage.png)
-![Landscape](landscape.jpeg)
+![Landscape](assets/landscape.jpeg)
 
 ## About
 
