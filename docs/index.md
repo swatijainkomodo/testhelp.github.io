@@ -7,8 +7,8 @@ title: Home
 
 Welcome to the Test Help Documentation site!
 
-![GitHub Image](assets/Githubimage.png)
 ![Landscape](assets/landscape.jpeg)
+![Landscape](docs/assets/landscape.jpeg)
 
 ## About
 
