@@ -8,7 +8,6 @@ title: Home
 Welcome to the Test Help Documentation site!
 
 ![Landscape](assets/landscape.jpeg)
-![Landscape](docs/assets/landscape.jpeg)
 
 ## About
 
